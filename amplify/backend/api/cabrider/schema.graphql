@@ -1,0 +1,8 @@
+type User @model {
+  id: ID!
+  fullname: String,
+  username: String,
+  email: String,
+  password: String,
+  verfied: Boolean!,
+}

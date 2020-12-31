@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-cabrider-dev-214345-authRole",
+      "UnauthRoleArn": "arn:aws:iam::719486586568:role/amplify-cabrider-dev-214345-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::719486586568:role/amplify-cabrider-dev-214345-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-cabrider-dev-214345-deployment",
+      "UnauthRoleName": "amplify-cabrider-dev-214345-unauthRole",
+      "StackName": "amplify-cabrider-dev-214345",
+      "StackId": "arn:aws:cloudformation:ap-south-1:719486586568:stack/amplify-cabrider-dev-214345/2fdbb480-3d5e-11eb-86af-0ac14d8b5d9e",
+      "AmplifyAppId": "d7eht49oyqzai"
+    },
+    "categories": {
+      "auth": {
+        "cabrider9bc320c0": {}
+      }
+    }
+  }
+}
